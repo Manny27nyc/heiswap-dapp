@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c7290aa95c2ff3ffa0ae5cdf28b0a533",

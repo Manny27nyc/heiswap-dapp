@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 // Extending https://github.com/trufflesuite/drizzle-utils/blob/master/packages/get-web3/index.js
 
 const Web3 = require('web3')

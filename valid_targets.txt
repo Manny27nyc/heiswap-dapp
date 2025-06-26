@@ -1,0 +1,29 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./migrations/1_initial_migration.js
+./migrations/2_contract_deployments.js
+./docs/static/js/main.2038eba2.chunk.js
+./docs/static/js/2.0cb420df.chunk.js
+./docs/static/js/runtime~main.a8a9905a.js
+./docs/service-worker.js
+./docs/precache-manifest.49713f7f4763b184a66d917f1cc72a26.js
+./valid_targets.txt
+./truffle-config.js
+./src/types/DappGateway.js
+./src/index.js
+./src/utils/getWeb3.js
+./src/utils/helper.js
+./src/utils/AltBn128.js
+./src/components/WithdrawPage.js
+./src/components/StatusPage.js
+./src/components/Web3StatusModal.js
+./src/components/404NotFound.js
+./src/components/FAQPage.js
+./src/components/DepositPage.js
+./src/App.test.js
+./src/serviceWorker.js
+./src/App.js

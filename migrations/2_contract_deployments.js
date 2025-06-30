@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const AltBn128 = artifacts.require("AltBn128");
 const LSAG = artifacts.require("LSAG");
 const Heiswap = artifacts.require("Heiswap");

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c7290aa95c2ff3ffa0ae5cdf28b0a533",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // @flow
 import BN from 'bn.js'
 import { Scalar, Point, serialize, h1, bn128 } from '../utils/AltBn128'

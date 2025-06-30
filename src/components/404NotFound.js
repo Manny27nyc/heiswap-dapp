@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react'
 import { Flex, Box, Heading, Text } from 'rimble-ui'
 

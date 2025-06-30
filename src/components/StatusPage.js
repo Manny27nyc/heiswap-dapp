@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // @flow
 import React, { useState } from 'react'
 import { Form, Button, Modal, Card, Box, Loader, Text, Pill } from 'rimble-ui'

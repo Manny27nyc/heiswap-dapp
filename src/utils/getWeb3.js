@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Extending https://github.com/trufflesuite/drizzle-utils/blob/master/packages/get-web3/index.js
 
 const Web3 = require('web3')

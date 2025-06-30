@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // @flow
 
 // Appends 0x in front of hex strings so
